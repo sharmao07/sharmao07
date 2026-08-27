@@ -1,4 +1,4 @@
-### Hey there, I'm **Ojus**! A student for now
+### Hey there, I'm **Ojus**! 
 
 ---
 
