@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hey, call me Sharma!
+# Hey there, call me Sharma!
 
 <p align="center">
   <img
