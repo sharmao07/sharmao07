@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sharmao07">
-    <img src="https://komarev.com/ghpvc/?username=sharmao07&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
+  ![Profile Views](https://komarev.com/ghpvc/?username=ojussharma07&color=0e75b6&style=flat-square&label=Profile+views)
   <img src="https://img.shields.io/badge/Building-macOS_%7C_Web_%7C_AI-8A2BE2?style=flat-square" alt="Focus" />
 </p>
 
