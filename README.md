@@ -6,8 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=55&lines=Hi%2C+I'm+Sharma+%F0%9F%91%8B;Building+Native+macOS+%26+Web+Tools;Exploring+Local+AI+%26+Automation;Learning+Something+New+Every+Day" alt="Typing SVG Banner" />
 </p>
 
+My GitHub stats:
+
+![Profile Views](https://komarev.com/ghpvc/?username=ojussharma07&color=0e75b6&style=flat-square&label=Profile+views)
+<br>
+
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=ojussharma07&color=0e75b6&style=flat-square&label=Profile+views)
   <img src="https://img.shields.io/badge/Building-macOS_%7C_Web_%7C_AI-8A2BE2?style=flat-square" alt="Focus" />
 </p>
 
