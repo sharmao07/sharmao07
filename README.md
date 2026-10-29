@@ -1,33 +1,23 @@
 <div align="center">
 
-# 👨‍💻 Sharma
+# 👨‍💻 Hey, call me Sharma!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=55&lines=Hi%2C+I'm+Sharma+%F0%9F%91%8B;Building+Native+macOS+%26+Web+Tools;Exploring+Local+AI+%26+Automation;Learning+Something+New+Every+Day" alt="Typing SVG Banner" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=+Learning+how+to+build+native+macOS+%26+web+tools;Exploring+local+AI+%26+automation;Learning+something+new+every+day"
+    alt="Typing SVG: Learning and building native macOS and web tools, exploring local AI and automation, and learning every day"
+/>
 </p>
 
-My GitHub stats:
+<br> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ojussharma07&color=0e75b6&style=flat-square&label=Profile+views)
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-macOS_%7C_Web_%7C_AI-8A2BE2?style=flat-square" alt="Focus" />
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharmaojus07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/sharmao_07">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/sharma.07">
-    <img src="https://img.shields.io/badge/Discord-sharma.07-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: sharma.07" />
-  </a>
-</p>
+### 📬 Say hello:
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4E15E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharmaojus07/) [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07) [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/778891631591686164)
 
 </div>
 
@@ -36,9 +26,13 @@ My GitHub stats:
 ### 👨‍💻 About Me
 
 - 🔭 **I’m currently working on** ... improving programming languages skills and learning something new everyday.
+  
 - 🌱 **I’m currently learning** ... new programming skills and expanding my tech stack.
+  
 - 👯 **I’m looking to collaborate on** ... open source moderation tools or creative API integrations.
+  
 - 💬 **Ask me about** ... Discord bot architecture, tech stacks, or my plans for future!
+  
 - ⚡ **Fun fact:** ... I am easily distracted by anything even remotely related to cats!
 ---
 
@@ -74,8 +68,6 @@ My GitHub stats:
 
 ---
 
-### 📬 Say hello:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4E15E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharmaojus07/) [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07) [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/778891631591686164)
 
 
