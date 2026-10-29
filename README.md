@@ -100,6 +100,6 @@ My GitHub stats:
 
 ### 📬 Say hello:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4E15E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharmaojus07/) [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07) [![Discord (778891631591686164)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/778891631591686164)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4E15E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharmaojus07/) [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07) [![Discord (778891631591686164)](https://img.shields.io/badge/Discord-%235865F2.svg)](https://discord.com/users/778891631591686164)
 
 
