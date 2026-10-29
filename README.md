@@ -98,11 +98,8 @@ My GitHub stats:
 
 ---
 
-### 📬 Say Hello!
+### 📬 Say hello:
 
-Feel free to reach out if you'd like to collaborate, discuss tech stacks, or talk about projects:
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4E15E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharmaojus07/) [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07) [![Discord](https://shields.io)]([https://discord.gg](https://discord.com/users/sharma.07)
 
-- 💼 **LinkedIn:** [linkedin.com/in/sharmaojus07](https://www.linkedin.com/in/sharmaojus07/)
-- 🐦 **Twitter / X:** [@sharmao_07](https://x.com/sharmao_07)
-- 💬 **Discord:** [sharma.07](https://discord.com/users/sharma.07)
 
