@@ -104,6 +104,3 @@ Feel free to reach out if you'd like to collaborate, discuss tech stacks, or tal
 - 🐦 **Twitter / X:** [@sharmao_07](https://x.com/sharmao_07)
 - 💬 **Discord:** [sharma.07](https://discord.com/users/sharma.07)
 
-<div align="center">
-  <sub>Designed with care • Always learning, always building.</sub>
-</div>
