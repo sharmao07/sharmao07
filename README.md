@@ -17,7 +17,7 @@
 
 ### 📬 Say hello:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4E15E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharmaojus07/) [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07) [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/778891631591686164)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07) [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/778891631591686164)
 
 </div>
 
